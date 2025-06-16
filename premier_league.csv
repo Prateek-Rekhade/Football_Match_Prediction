@@ -1,0 +1,381 @@
+date,matchday,home_team,away_team,home_score_full_time,away_score_full_time,home_score_half_time,away_score_half_time,goal_diff,winner,defeat,ref
+2023-08-11T19:00:00Z,1,Burnley,Man City,0,3,0,2,3,Man City,Burnley,Craig Pawson
+2023-08-12T12:00:00Z,1,Arsenal,Nottingham,2,1,2,0,1,Arsenal,Nottingham,Michael Oliver
+2023-08-12T14:00:00Z,1,Bournemouth,West Ham,1,1,0,0,0,DRAW,DRAW,Peter Bankes
+2023-08-12T14:00:00Z,1,Brighton Hove,Luton Town,4,1,1,0,3,Brighton Hove,Luton Town,David Coote
+2023-08-12T14:00:00Z,1,Everton,Fulham,0,1,0,0,1,Fulham,Everton,Stuart Attwell
+2023-08-12T14:00:00Z,1,Sheffield Utd,Crystal Palace,0,1,0,0,1,Crystal Palace,Sheffield Utd,John Brooks
+2023-08-12T16:30:00Z,1,Newcastle,Aston Villa,5,1,2,1,4,Newcastle,Aston Villa,Andy Madley
+2023-08-13T13:00:00Z,1,Brentford,Tottenham,2,2,2,2,0,DRAW,DRAW,Robert Jones
+2023-08-13T15:30:00Z,1,Chelsea,Liverpool,1,1,1,1,0,DRAW,DRAW,Anthony Taylor
+2023-08-14T19:00:00Z,1,Man United,Wolverhampton,1,0,0,0,1,Man United,Wolverhampton,Simon Hooper
+2023-08-18T18:45:00Z,2,Nottingham,Sheffield Utd,2,1,1,0,1,Nottingham,Sheffield Utd,Peter Bankes
+2023-08-19T14:00:00Z,2,Fulham,Brentford,0,3,0,1,3,Brentford,Fulham,Darren Bond
+2023-08-19T14:00:00Z,2,Liverpool,Bournemouth,3,1,2,1,2,Liverpool,Bournemouth,Thomas Bramall
+2023-08-19T14:00:00Z,2,Wolverhampton,Brighton Hove,1,4,0,1,3,Brighton Hove,Wolverhampton,Andy Madley
+2023-08-19T16:30:00Z,2,Tottenham,Man United,2,0,0,0,2,Tottenham,Man United,Michael Oliver
+2023-08-19T19:00:00Z,2,Man City,Newcastle,1,0,1,0,1,Man City,Newcastle,Robert Jones
+2023-08-20T13:00:00Z,2,Aston Villa,Everton,4,0,2,0,4,Aston Villa,Everton,Anthony Taylor
+2023-08-20T15:30:00Z,2,West Ham,Chelsea,3,1,1,1,2,West Ham,Chelsea,John Brooks
+2023-08-21T19:00:00Z,2,Crystal Palace,Arsenal,0,1,0,0,1,Arsenal,Crystal Palace,David Coote
+2023-08-25T19:00:00Z,3,Chelsea,Luton Town,3,0,1,0,3,Chelsea,Luton Town,Robert Jones
+2023-08-26T11:30:00Z,3,Bournemouth,Tottenham,0,2,0,1,2,Tottenham,Bournemouth,Tim Robinson
+2023-08-26T14:00:00Z,3,Everton,Wolverhampton,0,1,0,0,1,Wolverhampton,Everton,Craig Pawson
+2023-08-26T14:00:00Z,3,Man United,Nottingham,3,2,1,2,1,Man United,Nottingham,Stuart Attwell
+2023-08-26T14:00:00Z,3,Arsenal,Fulham,2,2,0,1,0,DRAW,DRAW,Paul Tierney
+2023-08-26T14:00:00Z,3,Brentford,Crystal Palace,1,1,1,0,0,DRAW,DRAW,Peter Bankes
+2023-08-26T16:30:00Z,3,Brighton Hove,West Ham,1,3,0,1,2,West Ham,Brighton Hove,Anthony Taylor
+2023-08-27T13:00:00Z,3,Sheffield Utd,Man City,1,2,0,0,1,Man City,Sheffield Utd,Jarred Gillett
+2023-08-27T13:00:00Z,3,Burnley,Aston Villa,1,3,0,2,2,Aston Villa,Burnley,Michael Salisbury
+2023-08-27T15:30:00Z,3,Newcastle,Liverpool,1,2,1,0,1,Liverpool,Newcastle,John Brooks
+2023-09-01T19:00:00Z,4,Luton Town,West Ham,1,2,0,1,1,West Ham,Luton Town,Paul Tierney
+2023-09-02T11:30:00Z,4,Sheffield Utd,Everton,2,2,2,1,0,DRAW,DRAW,Andy Madley
+2023-09-02T14:00:00Z,4,Brentford,Bournemouth,2,2,1,1,0,DRAW,DRAW,Bobby Madley
+2023-09-02T14:00:00Z,4,Burnley,Tottenham,2,5,1,2,3,Tottenham,Burnley,Darren England
+2023-09-02T14:00:00Z,4,Chelsea,Nottingham,0,1,0,0,1,Nottingham,Chelsea,Tim Robinson
+2023-09-02T14:00:00Z,4,Man City,Fulham,5,1,2,1,4,Man City,Fulham,Michael Oliver
+2023-09-02T16:30:00Z,4,Brighton Hove,Newcastle,3,1,1,0,2,Brighton Hove,Newcastle,Stuart Attwell
+2023-09-03T13:00:00Z,4,Crystal Palace,Wolverhampton,3,2,0,0,1,Crystal Palace,Wolverhampton,Robert Jones
+2023-09-03T13:00:00Z,4,Liverpool,Aston Villa,3,0,2,0,3,Liverpool,Aston Villa,Simon Hooper
+2023-09-03T15:30:00Z,4,Arsenal,Man United,3,1,1,1,2,Arsenal,Man United,Anthony Taylor
+2023-09-16T11:30:00Z,5,Wolverhampton,Liverpool,1,3,1,0,2,Liverpool,Wolverhampton,Michael Oliver
+2023-09-16T14:00:00Z,5,Aston Villa,Crystal Palace,3,1,0,0,2,Aston Villa,Crystal Palace,Darren England
+2023-09-16T14:00:00Z,5,Fulham,Luton Town,1,0,0,0,1,Fulham,Luton Town,Michael Salisbury
+2023-09-16T14:00:00Z,5,Man United,Brighton Hove,1,3,0,1,2,Brighton Hove,Man United,Jarred Gillett
+2023-09-16T14:00:00Z,5,Tottenham,Sheffield Utd,2,1,0,0,1,Tottenham,Sheffield Utd,Peter Bankes
+2023-09-16T14:00:00Z,5,West Ham,Man City,1,3,1,0,2,Man City,West Ham,Andy Madley
+2023-09-16T16:30:00Z,5,Newcastle,Brentford,1,0,0,0,1,Newcastle,Brentford,Craig Pawson
+2023-09-17T13:00:00Z,5,Bournemouth,Chelsea,0,0,0,0,0,DRAW,DRAW,David Coote
+2023-09-17T15:30:00Z,5,Everton,Arsenal,0,1,0,0,1,Arsenal,Everton,Simon Hooper
+2023-09-18T18:45:00Z,5,Nottingham,Burnley,1,1,0,1,0,DRAW,DRAW,Robert Jones
+2023-09-23T14:00:00Z,6,Crystal Palace,Fulham,0,0,0,0,0,DRAW,DRAW,Paul Tierney
+2023-09-23T14:00:00Z,6,Luton Town,Wolverhampton,1,1,0,0,0,DRAW,DRAW,Josh Smith
+2023-09-23T14:00:00Z,6,Man City,Nottingham,2,0,2,0,2,Man City,Nottingham,Anthony Taylor
+2023-09-23T16:30:00Z,6,Brentford,Everton,1,3,1,1,2,Everton,Brentford,Michael Oliver
+2023-09-23T19:00:00Z,6,Burnley,Man United,0,1,0,1,1,Man United,Burnley,Tony Harrington
+2023-09-24T13:00:00Z,6,Arsenal,Tottenham,2,2,1,1,0,DRAW,DRAW,Robert Jones
+2023-09-24T13:00:00Z,6,Brighton Hove,Bournemouth,3,1,1,1,2,Brighton Hove,Bournemouth,John Brooks
+2023-09-24T13:00:00Z,6,Chelsea,Aston Villa,0,1,0,0,1,Aston Villa,Chelsea,Jarred Gillett
+2023-09-24T13:00:00Z,6,Liverpool,West Ham,3,1,1,1,2,Liverpool,West Ham,Chris Kavanagh
+2023-09-24T15:30:00Z,6,Sheffield Utd,Newcastle,0,8,0,3,8,Newcastle,Sheffield Utd,Stuart Attwell
+2023-09-30T11:30:00Z,7,Aston Villa,Brighton Hove,6,1,3,0,5,Aston Villa,Brighton Hove,Andy Madley
+2023-09-30T14:00:00Z,7,Bournemouth,Arsenal,0,4,0,2,4,Arsenal,Bournemouth,Michael Salisbury
+2023-09-30T14:00:00Z,7,Everton,Luton Town,1,2,1,2,1,Luton Town,Everton,Anthony Taylor
+2023-09-30T14:00:00Z,7,Man United,Crystal Palace,0,1,0,1,1,Crystal Palace,Man United,Chris Kavanagh
+2023-09-30T14:00:00Z,7,Newcastle,Burnley,2,0,1,0,2,Newcastle,Burnley,Thomas Bramall
+2023-09-30T14:00:00Z,7,West Ham,Sheffield Utd,2,0,2,0,2,West Ham,Sheffield Utd,Graham Scott
+2023-09-30T14:00:00Z,7,Wolverhampton,Man City,2,1,1,0,1,Wolverhampton,Man City,Craig Pawson
+2023-09-30T16:30:00Z,7,Tottenham,Liverpool,2,1,1,1,1,Tottenham,Liverpool,Simon Hooper
+2023-10-01T13:00:00Z,7,Nottingham,Brentford,1,1,0,0,0,DRAW,DRAW,Paul Tierney
+2023-10-02T19:00:00Z,7,Fulham,Chelsea,0,2,0,2,2,Chelsea,Fulham,Tim Robinson
+2023-10-03T18:30:00Z,2,Luton Town,Burnley,1,2,0,1,1,Burnley,Luton Town,Peter Bankes
+2023-10-07T11:30:00Z,8,Luton Town,Tottenham,0,1,0,0,1,Tottenham,Luton Town,John Brooks
+2023-10-07T14:00:00Z,8,Burnley,Chelsea,1,4,1,1,3,Chelsea,Burnley,Stuart Attwell
+2023-10-07T14:00:00Z,8,Everton,Bournemouth,3,0,2,0,3,Everton,Bournemouth,David Coote
+2023-10-07T14:00:00Z,8,Fulham,Sheffield Utd,3,1,0,0,2,Fulham,Sheffield Utd,Sam Barrott
+2023-10-07T14:00:00Z,8,Man United,Brentford,2,1,0,1,1,Man United,Brentford,Bobby Madley
+2023-10-07T16:30:00Z,8,Crystal Palace,Nottingham,0,0,0,0,0,DRAW,DRAW,Craig Pawson
+2023-10-08T13:00:00Z,8,Brighton Hove,Liverpool,2,2,1,2,0,DRAW,DRAW,Anthony Taylor
+2023-10-08T13:00:00Z,8,West Ham,Newcastle,2,2,1,0,0,DRAW,DRAW,Peter Bankes
+2023-10-08T13:00:00Z,8,Wolverhampton,Aston Villa,1,1,0,0,0,DRAW,DRAW,Robert Jones
+2023-10-08T15:30:00Z,8,Arsenal,Man City,1,0,0,0,1,Arsenal,Man City,Michael Oliver
+2023-10-21T11:30:00Z,9,Liverpool,Everton,2,0,0,0,2,Liverpool,Everton,Craig Pawson
+2023-10-21T14:00:00Z,9,Bournemouth,Wolverhampton,1,2,1,0,1,Wolverhampton,Bournemouth,Paul Tierney
+2023-10-21T14:00:00Z,9,Brentford,Burnley,3,0,1,0,3,Brentford,Burnley,Josh Smith
+2023-10-21T14:00:00Z,9,Man City,Brighton Hove,2,1,2,0,1,Man City,Brighton Hove,Robert Jones
+2023-10-21T14:00:00Z,9,Newcastle,Crystal Palace,4,0,3,0,4,Newcastle,Crystal Palace,Tim Robinson
+2023-10-21T14:00:00Z,9,Nottingham,Luton Town,2,2,0,0,0,DRAW,DRAW,Sam Barrott
+2023-10-21T16:30:00Z,9,Chelsea,Arsenal,2,2,1,0,0,DRAW,DRAW,Chris Kavanagh
+2023-10-21T19:00:00Z,9,Sheffield Utd,Man United,1,2,1,1,1,Man United,Sheffield Utd,Michael Oliver
+2023-10-22T15:30:00Z,9,Aston Villa,West Ham,4,1,1,0,3,Aston Villa,West Ham,David Coote
+2023-10-23T19:00:00Z,9,Tottenham,Fulham,2,0,1,0,2,Tottenham,Fulham,Anthony Taylor
+2023-10-27T19:00:00Z,10,Crystal Palace,Tottenham,1,2,0,0,1,Tottenham,Crystal Palace,Andy Madley
+2023-10-28T11:30:00Z,10,Chelsea,Brentford,0,2,0,0,2,Brentford,Chelsea,Simon Hooper
+2023-10-28T14:00:00Z,10,Bournemouth,Burnley,2,1,1,1,1,Bournemouth,Burnley,Sam Barrott
+2023-10-28T14:00:00Z,10,Arsenal,Sheffield Utd,5,0,1,0,5,Arsenal,Sheffield Utd,Tim Robinson
+2023-10-28T16:30:00Z,10,Wolverhampton,Newcastle,2,2,1,2,0,DRAW,DRAW,Anthony Taylor
+2023-10-29T13:00:00Z,10,West Ham,Everton,0,1,0,0,1,Everton,West Ham,Stuart Attwell
+2023-10-29T14:00:00Z,10,Aston Villa,Luton Town,3,1,1,0,2,Aston Villa,Luton Town,John Brooks
+2023-10-29T14:00:00Z,10,Brighton Hove,Fulham,1,1,1,0,0,DRAW,DRAW,Michael Salisbury
+2023-10-29T14:00:00Z,10,Liverpool,Nottingham,3,0,2,0,3,Liverpool,Nottingham,Chris Kavanagh
+2023-10-29T15:30:00Z,10,Man United,Man City,0,3,0,1,3,Man City,Man United,Paul Tierney
+2023-11-04T12:30:00Z,11,Fulham,Man United,0,1,0,0,1,Man United,Fulham,John Brooks
+2023-11-04T15:00:00Z,11,Brentford,West Ham,3,2,1,2,1,Brentford,West Ham,Thomas Bramall
+2023-11-04T15:00:00Z,11,Burnley,Crystal Palace,0,2,0,1,2,Crystal Palace,Burnley,Peter Bankes
+2023-11-04T15:00:00Z,11,Everton,Brighton Hove,1,1,1,0,0,DRAW,DRAW,Tim Robinson
+2023-11-04T15:00:00Z,11,Man City,Bournemouth,6,1,3,0,5,Man City,Bournemouth,Craig Pawson
+2023-11-04T15:00:00Z,11,Sheffield Utd,Wolverhampton,2,1,0,0,1,Sheffield Utd,Wolverhampton,Robert Jones
+2023-11-04T17:30:00Z,11,Newcastle,Arsenal,1,0,0,0,1,Newcastle,Arsenal,Stuart Attwell
+2023-11-05T14:00:00Z,11,Nottingham,Aston Villa,2,0,1,0,2,Nottingham,Aston Villa,Jarred Gillett
+2023-11-05T16:30:00Z,11,Luton Town,Liverpool,1,1,0,0,0,DRAW,DRAW,Andy Madley
+2023-11-06T20:00:00Z,11,Tottenham,Chelsea,1,4,1,1,3,Chelsea,Tottenham,Michael Oliver
+2023-11-11T12:30:00Z,12,Wolverhampton,Tottenham,2,1,0,1,1,Wolverhampton,Tottenham,Tim Robinson
+2023-11-11T15:00:00Z,12,Arsenal,Burnley,3,1,1,0,2,Arsenal,Burnley,Michael Oliver
+2023-11-11T15:00:00Z,12,Crystal Palace,Everton,2,3,1,1,1,Everton,Crystal Palace,Sam Barrott
+2023-11-11T15:00:00Z,12,Man United,Luton Town,1,0,0,0,1,Man United,Luton Town,Graham Scott
+2023-11-11T17:30:00Z,12,Bournemouth,Newcastle,2,0,0,0,2,Bournemouth,Newcastle,Chris Kavanagh
+2023-11-12T14:00:00Z,12,Aston Villa,Fulham,3,1,2,0,2,Aston Villa,Fulham,Simon Hooper
+2023-11-12T14:00:00Z,12,Brighton Hove,Sheffield Utd,1,1,1,0,0,DRAW,DRAW,John Brooks
+2023-11-12T14:00:00Z,12,Liverpool,Brentford,3,0,1,0,3,Liverpool,Brentford,Paul Tierney
+2023-11-12T14:00:00Z,12,West Ham,Nottingham,3,2,1,1,1,West Ham,Nottingham,Michael Salisbury
+2023-11-12T16:30:00Z,12,Chelsea,Man City,4,4,2,2,0,DRAW,DRAW,Anthony Taylor
+2023-11-25T12:30:00Z,13,Man City,Liverpool,1,1,1,0,0,DRAW,DRAW,Chris Kavanagh
+2023-11-25T15:00:00Z,13,Burnley,West Ham,1,2,0,0,1,West Ham,Burnley,Sam Barrott
+2023-11-25T15:00:00Z,13,Luton Town,Crystal Palace,2,1,0,0,1,Luton Town,Crystal Palace,Jarred Gillett
+2023-11-25T15:00:00Z,13,Newcastle,Chelsea,4,1,1,1,3,Newcastle,Chelsea,Simon Hooper
+2023-11-25T15:00:00Z,13,Nottingham,Brighton Hove,2,3,1,2,1,Brighton Hove,Nottingham,Anthony Taylor
+2023-11-25T15:00:00Z,13,Sheffield Utd,Bournemouth,1,3,0,2,2,Bournemouth,Sheffield Utd,Bobby Madley
+2023-11-25T17:30:00Z,13,Brentford,Arsenal,0,1,0,0,1,Arsenal,Brentford,Tim Robinson
+2023-11-26T14:00:00Z,13,Tottenham,Aston Villa,1,2,1,1,1,Aston Villa,Tottenham,Robert Jones
+2023-11-26T16:30:00Z,13,Everton,Man United,0,3,0,1,3,Man United,Everton,John Brooks
+2023-11-27T20:00:00Z,13,Fulham,Wolverhampton,3,2,1,1,1,Fulham,Wolverhampton,Michael Salisbury
+2023-12-02T15:00:00Z,14,Arsenal,Wolverhampton,2,1,2,0,1,Arsenal,Wolverhampton,Peter Bankes
+2023-12-02T15:00:00Z,14,Brentford,Luton Town,3,1,0,0,2,Brentford,Luton Town,Anthony Taylor
+2023-12-02T15:00:00Z,14,Burnley,Sheffield Utd,5,0,2,0,5,Burnley,Sheffield Utd,Chris Kavanagh
+2023-12-02T17:30:00Z,14,Nottingham,Everton,0,1,0,0,1,Everton,Nottingham,Paul Tierney
+2023-12-02T20:00:00Z,14,Newcastle,Man United,1,0,0,0,1,Newcastle,Man United,Robert Jones
+2023-12-03T14:00:00Z,14,Bournemouth,Aston Villa,2,2,1,1,0,DRAW,DRAW,Thomas Bramall
+2023-12-03T14:00:00Z,14,Chelsea,Brighton Hove,3,2,2,1,1,Chelsea,Brighton Hove,Craig Pawson
+2023-12-03T14:00:00Z,14,Liverpool,Fulham,4,3,2,2,1,Liverpool,Fulham,Stuart Attwell
+2023-12-03T14:00:00Z,14,West Ham,Crystal Palace,1,1,1,0,0,DRAW,DRAW,Michael Oliver
+2023-12-03T16:30:00Z,14,Man City,Tottenham,3,3,2,1,0,DRAW,DRAW,Simon Hooper
+2023-12-05T19:30:00Z,15,Wolverhampton,Burnley,1,0,1,0,1,Wolverhampton,Burnley,Jarred Gillett
+2023-12-05T20:15:00Z,15,Luton Town,Arsenal,3,4,1,2,1,Arsenal,Luton Town,Sam Barrott
+2023-12-06T19:30:00Z,15,Brighton Hove,Brentford,2,1,1,1,1,Brighton Hove,Brentford,Peter Bankes
+2023-12-06T19:30:00Z,15,Fulham,Nottingham,5,0,2,0,5,Fulham,Nottingham,Josh Smith
+2023-12-06T19:30:00Z,15,Sheffield Utd,Liverpool,0,2,0,1,2,Liverpool,Sheffield Utd,Simon Hooper
+2023-12-06T19:30:00Z,15,Crystal Palace,Bournemouth,0,2,0,1,2,Bournemouth,Crystal Palace,Craig Pawson
+2023-12-06T20:15:00Z,15,Aston Villa,Man City,1,0,0,0,1,Aston Villa,Man City,John Brooks
+2023-12-06T20:15:00Z,15,Man United,Chelsea,2,1,1,1,1,Man United,Chelsea,Chris Kavanagh
+2023-12-07T19:30:00Z,15,Everton,Newcastle,3,0,0,0,3,Everton,Newcastle,Tim Robinson
+2023-12-07T20:15:00Z,15,Tottenham,West Ham,1,2,1,0,1,West Ham,Tottenham,Michael Salisbury
+2023-12-09T12:30:00Z,16,Crystal Palace,Liverpool,1,2,0,0,1,Liverpool,Crystal Palace,Andy Madley
+2023-12-09T15:00:00Z,16,Brighton Hove,Burnley,1,1,0,1,0,DRAW,DRAW,Simon Hooper
+2023-12-09T15:00:00Z,16,Man United,Bournemouth,0,3,0,1,3,Bournemouth,Man United,Peter Bankes
+2023-12-09T15:00:00Z,16,Sheffield Utd,Brentford,1,0,1,0,1,Sheffield Utd,Brentford,Stuart Attwell
+2023-12-09T15:00:00Z,16,Wolverhampton,Nottingham,1,1,1,1,0,DRAW,DRAW,Sam Barrott
+2023-12-09T17:30:00Z,16,Aston Villa,Arsenal,1,0,1,0,1,Aston Villa,Arsenal,Jarred Gillett
+2023-12-10T14:00:00Z,16,Everton,Chelsea,2,0,0,0,2,Everton,Chelsea,Michael Oliver
+2023-12-10T14:00:00Z,16,Fulham,West Ham,5,0,3,0,5,Fulham,West Ham,Paul Tierney
+2023-12-10T14:00:00Z,16,Luton Town,Man City,1,2,1,0,1,Man City,Luton Town,Tim Robinson
+2023-12-10T16:30:00Z,16,Tottenham,Newcastle,4,1,2,0,3,Tottenham,Newcastle,Chris Kavanagh
+2023-12-15T20:00:00Z,17,Nottingham,Tottenham,0,2,0,1,2,Tottenham,Nottingham,Jarred Gillett
+2023-12-16T15:00:00Z,17,Chelsea,Sheffield Utd,2,0,0,0,2,Chelsea,Sheffield Utd,Andy Madley
+2023-12-16T15:00:00Z,17,Man City,Crystal Palace,2,2,1,0,0,DRAW,DRAW,Paul Tierney
+2023-12-16T15:00:00Z,17,Newcastle,Fulham,3,0,0,0,3,Newcastle,Fulham,Sam Barrott
+2023-12-16T17:30:00Z,17,Burnley,Everton,0,2,0,2,2,Everton,Burnley,Anthony Taylor
+2023-12-17T14:00:00Z,17,Arsenal,Brighton Hove,2,0,0,0,2,Arsenal,Brighton Hove,Tim Robinson
+2023-12-17T14:00:00Z,17,Brentford,Aston Villa,1,2,1,0,1,Aston Villa,Brentford,David Coote
+2023-12-17T14:00:00Z,17,West Ham,Wolverhampton,3,0,2,0,3,West Ham,Wolverhampton,Chris Kavanagh
+2023-12-17T16:30:00Z,17,Liverpool,Man United,0,0,0,0,0,DRAW,DRAW,Michael Oliver
+2023-12-21T20:00:00Z,18,Crystal Palace,Brighton Hove,1,1,1,0,0,DRAW,DRAW,John Brooks
+2023-12-22T20:00:00Z,18,Aston Villa,Sheffield Utd,1,1,0,0,0,DRAW,DRAW,Anthony Taylor
+2023-12-23T12:30:00Z,18,West Ham,Man United,2,0,0,0,2,West Ham,Man United,Simon Hooper
+2023-12-23T15:00:00Z,18,Fulham,Burnley,0,2,0,0,2,Burnley,Fulham,Rebecca Welch
+2023-12-23T15:00:00Z,18,Luton Town,Newcastle,1,0,1,0,1,Luton Town,Newcastle,Darren England
+2023-12-23T15:00:00Z,18,Nottingham,Bournemouth,2,3,0,0,1,Bournemouth,Nottingham,Robert Jones
+2023-12-23T15:00:00Z,18,Tottenham,Everton,2,1,2,0,1,Tottenham,Everton,Stuart Attwell
+2023-12-23T17:30:00Z,18,Liverpool,Arsenal,1,1,1,1,0,DRAW,DRAW,Chris Kavanagh
+2023-12-24T13:00:00Z,18,Wolverhampton,Chelsea,2,1,0,0,1,Wolverhampton,Chelsea,David Coote
+2023-12-26T12:30:00Z,19,Newcastle,Nottingham,1,3,1,1,2,Nottingham,Newcastle,Chris Kavanagh
+2023-12-26T15:00:00Z,19,Bournemouth,Fulham,3,0,1,0,3,Bournemouth,Fulham,Tim Robinson
+2023-12-26T15:00:00Z,19,Sheffield Utd,Luton Town,2,3,0,1,1,Luton Town,Sheffield Utd,Samuel Allison
+2023-12-26T17:30:00Z,19,Burnley,Liverpool,0,2,0,1,2,Liverpool,Burnley,Paul Tierney
+2023-12-26T20:00:00Z,19,Man United,Aston Villa,3,2,0,2,1,Man United,Aston Villa,Craig Pawson
+2023-12-27T19:30:00Z,19,Brentford,Wolverhampton,1,4,1,3,3,Wolverhampton,Brentford,Andy Madley
+2023-12-27T19:30:00Z,19,Chelsea,Crystal Palace,2,1,1,1,1,Chelsea,Crystal Palace,Michael Salisbury
+2023-12-27T20:15:00Z,19,Everton,Man City,1,3,1,0,2,Man City,Everton,John Brooks
+2023-12-28T19:30:00Z,19,Brighton Hove,Tottenham,4,2,2,0,2,Brighton Hove,Tottenham,Jarred Gillett
+2023-12-28T20:15:00Z,19,Arsenal,West Ham,0,2,0,1,2,West Ham,Arsenal,Michael Oliver
+2023-12-30T12:30:00Z,20,Luton Town,Chelsea,2,3,0,2,1,Chelsea,Luton Town,Paul Tierney
+2023-12-30T15:00:00Z,20,Aston Villa,Burnley,3,2,2,1,1,Aston Villa,Burnley,Stuart Attwell
+2023-12-30T15:00:00Z,20,Crystal Palace,Brentford,3,1,2,1,2,Crystal Palace,Brentford,Robert Jones
+2023-12-30T15:00:00Z,20,Man City,Sheffield Utd,2,0,1,0,2,Man City,Sheffield Utd,David Coote
+2023-12-30T15:00:00Z,20,Wolverhampton,Everton,3,0,1,0,3,Wolverhampton,Everton,Thomas Bramall
+2023-12-30T17:30:00Z,20,Nottingham,Man United,2,1,0,0,1,Nottingham,Man United,Tim Robinson
+2023-12-31T14:00:00Z,20,Fulham,Arsenal,2,1,1,1,1,Fulham,Arsenal,Peter Bankes
+2023-12-31T14:00:00Z,20,Tottenham,Bournemouth,3,1,1,0,2,Tottenham,Bournemouth,Simon Hooper
+2024-01-01T20:00:00Z,20,Liverpool,Newcastle,4,2,0,0,2,Liverpool,Newcastle,Anthony Taylor
+2024-01-02T19:30:00Z,20,West Ham,Brighton Hove,0,0,0,0,0,DRAW,DRAW,Sam Barrott
+2024-01-12T19:45:00Z,21,Burnley,Luton Town,1,1,1,0,0,DRAW,DRAW,Tony Harrington
+2024-01-13T12:30:00Z,21,Chelsea,Fulham,1,0,1,0,1,Chelsea,Fulham,Anthony Taylor
+2024-01-13T17:30:00Z,21,Newcastle,Man City,2,3,2,1,1,Man City,Newcastle,Chris Kavanagh
+2024-01-14T14:00:00Z,21,Everton,Aston Villa,0,0,0,0,0,DRAW,DRAW,David Coote
+2024-01-14T16:30:00Z,21,Man United,Tottenham,2,2,2,1,0,DRAW,DRAW,John Brooks
+2024-01-20T12:30:00Z,21,Arsenal,Crystal Palace,5,0,2,0,5,Arsenal,Crystal Palace,Paul Tierney
+2024-01-20T17:30:00Z,21,Brentford,Nottingham,3,2,1,1,1,Brentford,Nottingham,Darren England
+2024-01-21T14:00:00Z,21,Sheffield Utd,West Ham,2,2,1,1,0,DRAW,DRAW,Michael Salisbury
+2024-01-21T16:30:00Z,21,Bournemouth,Liverpool,0,4,0,0,4,Liverpool,Bournemouth,Bobby Madley
+2024-01-22T19:45:00Z,21,Brighton Hove,Wolverhampton,0,0,0,0,0,DRAW,DRAW,Craig Pawson
+2024-01-30T19:30:00Z,22,Nottingham,Arsenal,1,2,0,0,1,Arsenal,Nottingham,Simon Hooper
+2024-01-30T19:45:00Z,22,Luton Town,Brighton Hove,4,0,3,0,4,Luton Town,Brighton Hove,Robert Jones
+2024-01-30T19:45:00Z,22,Fulham,Everton,0,0,0,0,0,DRAW,DRAW,Thomas Bramall
+2024-01-30T20:00:00Z,22,Crystal Palace,Sheffield Utd,3,2,2,2,1,Crystal Palace,Sheffield Utd,Tony Harrington
+2024-01-30T20:15:00Z,22,Aston Villa,Newcastle,1,3,0,2,2,Newcastle,Aston Villa,John Brooks
+2024-01-31T19:30:00Z,22,Tottenham,Brentford,3,2,0,1,1,Tottenham,Brentford,David Coote
+2024-01-31T19:30:00Z,22,Man City,Burnley,3,1,2,0,2,Man City,Burnley,Sam Barrott
+2024-01-31T20:15:00Z,22,Liverpool,Chelsea,4,1,2,0,3,Liverpool,Chelsea,Paul Tierney
+2024-02-01T19:30:00Z,22,West Ham,Bournemouth,1,1,0,1,0,DRAW,DRAW,Tim Robinson
+2024-02-01T20:15:00Z,22,Wolverhampton,Man United,3,4,0,2,1,Man United,Wolverhampton,Jarred Gillett
+2024-02-03T12:30:00Z,23,Everton,Tottenham,2,2,1,2,0,DRAW,DRAW,Michael Oliver
+2024-02-03T15:00:00Z,23,Brighton Hove,Crystal Palace,4,1,3,0,3,Brighton Hove,Crystal Palace,Simon Hooper
+2024-02-03T15:00:00Z,23,Burnley,Fulham,2,2,0,2,0,DRAW,DRAW,Darren Bond
+2024-02-03T15:00:00Z,23,Newcastle,Luton Town,4,4,2,2,0,DRAW,DRAW,Thomas Bramall
+2024-02-03T17:30:00Z,23,Sheffield Utd,Aston Villa,0,5,0,4,5,Aston Villa,Sheffield Utd,Paul Tierney
+2024-02-04T14:00:00Z,23,Bournemouth,Nottingham,1,1,1,1,0,DRAW,DRAW,Rebecca Welch
+2024-02-04T14:00:00Z,23,Chelsea,Wolverhampton,2,4,1,2,2,Wolverhampton,Chelsea,Tim Robinson
+2024-02-04T14:00:00Z,23,Man United,West Ham,3,0,1,0,3,Man United,West Ham,Andy Madley
+2024-02-04T16:30:00Z,23,Arsenal,Liverpool,3,1,1,1,2,Arsenal,Liverpool,Anthony Taylor
+2024-02-05T20:00:00Z,23,Brentford,Man City,1,3,1,1,2,Man City,Brentford,Jarred Gillett
+2024-02-10T12:30:00Z,24,Man City,Everton,2,0,0,0,2,Man City,Everton,John Brooks
+2024-02-10T15:00:00Z,24,Fulham,Bournemouth,3,1,2,0,2,Fulham,Bournemouth,Darren England
+2024-02-10T15:00:00Z,24,Liverpool,Burnley,3,1,1,1,2,Liverpool,Burnley,Tim Robinson
+2024-02-10T15:00:00Z,24,Luton Town,Sheffield Utd,1,3,0,2,2,Sheffield Utd,Luton Town,Chris Kavanagh
+2024-02-10T15:00:00Z,24,Tottenham,Brighton Hove,2,1,0,1,1,Tottenham,Brighton Hove,Sam Barrott
+2024-02-10T15:00:00Z,24,Wolverhampton,Brentford,0,2,0,1,2,Brentford,Wolverhampton,Simon Hooper
+2024-02-10T17:30:00Z,24,Nottingham,Newcastle,2,3,2,2,1,Newcastle,Nottingham,Anthony Taylor
+2024-02-11T14:00:00Z,24,West Ham,Arsenal,0,6,0,4,6,Arsenal,West Ham,Craig Pawson
+2024-02-11T16:30:00Z,24,Aston Villa,Man United,1,2,0,1,1,Man United,Aston Villa,Robert Jones
+2024-02-12T20:00:00Z,24,Crystal Palace,Chelsea,1,3,1,0,2,Chelsea,Crystal Palace,Michael Oliver
+2024-02-17T12:30:00Z,25,Brentford,Liverpool,1,4,0,1,3,Liverpool,Brentford,Michael Oliver
+2024-02-17T15:00:00Z,25,Burnley,Arsenal,0,5,0,2,5,Arsenal,Burnley,Jarred Gillett
+2024-02-17T15:00:00Z,25,Fulham,Aston Villa,1,2,0,1,1,Aston Villa,Fulham,Lewis Smith
+2024-02-17T15:00:00Z,25,Newcastle,Bournemouth,2,2,0,0,0,DRAW,DRAW,Michael Salisbury
+2024-02-17T15:00:00Z,25,Nottingham,West Ham,2,0,1,0,2,Nottingham,West Ham,Thomas Bramall
+2024-02-17T15:00:00Z,25,Tottenham,Wolverhampton,1,2,0,1,1,Wolverhampton,Tottenham,Anthony Taylor
+2024-02-17T17:30:00Z,25,Man City,Chelsea,1,1,0,1,0,DRAW,DRAW,Andy Madley
+2024-02-18T14:00:00Z,25,Sheffield Utd,Brighton Hove,0,5,0,2,5,Brighton Hove,Sheffield Utd,Stuart Attwell
+2024-02-18T16:30:00Z,25,Luton Town,Man United,1,2,1,2,1,Man United,Luton Town,David Coote
+2024-02-19T20:00:00Z,25,Everton,Crystal Palace,1,1,0,0,0,DRAW,DRAW,Paul Tierney
+2024-02-20T19:30:00Z,18,Man City,Brentford,1,0,0,0,1,Man City,Brentford,Darren England
+2024-02-21T19:30:00Z,26,Liverpool,Luton Town,4,1,0,1,3,Liverpool,Luton Town,Andy Madley
+2024-02-24T15:00:00Z,26,Aston Villa,Nottingham,4,2,3,1,2,Aston Villa,Nottingham,Sam Barrott
+2024-02-24T15:00:00Z,26,Brighton Hove,Everton,1,1,0,0,0,DRAW,DRAW,Tony Harrington
+2024-02-24T15:00:00Z,26,Crystal Palace,Burnley,3,0,0,0,3,Crystal Palace,Burnley,Lewis Smith
+2024-02-24T15:00:00Z,26,Man United,Fulham,1,2,0,0,1,Fulham,Man United,Michael Oliver
+2024-02-24T17:30:00Z,26,Bournemouth,Man City,0,1,0,1,1,Man City,Bournemouth,Jarred Gillett
+2024-02-24T20:00:00Z,26,Arsenal,Newcastle,4,1,2,0,3,Arsenal,Newcastle,Paul Tierney
+2024-02-25T13:30:00Z,26,Wolverhampton,Sheffield Utd,1,0,1,0,1,Wolverhampton,Sheffield Utd,Darren Bond
+2024-02-26T20:00:00Z,26,West Ham,Brentford,4,2,2,1,2,West Ham,Brentford,Simon Hooper
+2024-03-02T15:00:00Z,27,Brentford,Chelsea,2,2,0,1,0,DRAW,DRAW,Jarred Gillett
+2024-03-02T15:00:00Z,27,Everton,West Ham,1,3,0,0,2,West Ham,Everton,Craig Pawson
+2024-03-02T15:00:00Z,27,Fulham,Brighton Hove,3,0,2,0,3,Fulham,Brighton Hove,Simon Hooper
+2024-03-02T15:00:00Z,27,Newcastle,Wolverhampton,3,0,2,0,3,Newcastle,Wolverhampton,Tim Robinson
+2024-03-02T15:00:00Z,27,Nottingham,Liverpool,0,1,0,0,1,Liverpool,Nottingham,Paul Tierney
+2024-03-02T15:00:00Z,27,Tottenham,Crystal Palace,3,1,0,0,2,Tottenham,Crystal Palace,John Brooks
+2024-03-02T17:30:00Z,27,Luton Town,Aston Villa,2,3,0,2,1,Aston Villa,Luton Town,Michael Oliver
+2024-03-03T13:00:00Z,27,Burnley,Bournemouth,0,2,0,1,2,Bournemouth,Burnley,David Coote
+2024-03-03T15:30:00Z,27,Man City,Man United,3,1,0,1,2,Man City,Man United,Andy Madley
+2024-03-04T20:00:00Z,27,Sheffield Utd,Arsenal,0,6,0,5,6,Arsenal,Sheffield Utd,Sam Barrott
+2024-03-09T12:30:00Z,28,Man United,Everton,2,0,2,0,2,Man United,Everton,Simon Hooper
+2024-03-09T15:00:00Z,28,Bournemouth,Sheffield Utd,2,2,0,1,0,DRAW,DRAW,Anthony Taylor
+2024-03-09T15:00:00Z,28,Crystal Palace,Luton Town,1,1,1,0,0,DRAW,DRAW,Sunny Gill
+2024-03-09T15:00:00Z,28,Wolverhampton,Fulham,2,1,0,0,1,Wolverhampton,Fulham,Tony Harrington
+2024-03-09T17:30:00Z,28,Arsenal,Brentford,2,1,1,1,1,Arsenal,Brentford,Robert Jones
+2024-03-10T13:00:00Z,28,Aston Villa,Tottenham,0,4,0,0,4,Tottenham,Aston Villa,Chris Kavanagh
+2024-03-10T14:00:00Z,28,Brighton Hove,Nottingham,1,0,1,0,1,Brighton Hove,Nottingham,Michael Salisbury
+2024-03-10T14:00:00Z,28,West Ham,Burnley,2,2,0,2,0,DRAW,DRAW,Darren England
+2024-03-10T15:45:00Z,28,Liverpool,Man City,1,1,0,1,0,DRAW,DRAW,Michael Oliver
+2024-03-11T20:00:00Z,28,Chelsea,Newcastle,3,2,1,1,1,Chelsea,Newcastle,John Brooks
+2024-03-13T19:30:00Z,17,Bournemouth,Luton Town,4,3,0,3,1,Bournemouth,Luton Town,Samuel Allison
+2024-03-16T15:00:00Z,29,Burnley,Brentford,2,1,1,0,1,Burnley,Brentford,Darren Bond
+2024-03-16T15:00:00Z,29,Luton Town,Nottingham,1,1,0,1,0,DRAW,DRAW,Darren England
+2024-03-16T17:30:00Z,29,Fulham,Tottenham,3,0,1,0,3,Fulham,Tottenham,Robert Jones
+2024-03-17T14:00:00Z,29,West Ham,Aston Villa,1,1,1,0,0,DRAW,DRAW,Jarred Gillett
+2024-03-30T12:30:00Z,30,Newcastle,West Ham,4,3,1,2,1,Newcastle,West Ham,Robert Jones
+2024-03-30T15:00:00Z,30,Bournemouth,Everton,2,1,0,0,1,Bournemouth,Everton,Sam Barrott
+2024-03-30T15:00:00Z,30,Chelsea,Burnley,2,2,1,0,0,DRAW,DRAW,Darren England
+2024-03-30T15:00:00Z,30,Nottingham,Crystal Palace,1,1,0,1,0,DRAW,DRAW,Chris Kavanagh
+2024-03-30T15:00:00Z,30,Sheffield Utd,Fulham,3,3,0,0,0,DRAW,DRAW,Tim Robinson
+2024-03-30T15:00:00Z,30,Tottenham,Luton Town,2,1,0,1,1,Tottenham,Luton Town,Jarred Gillett
+2024-03-30T17:30:00Z,30,Aston Villa,Wolverhampton,2,0,1,0,2,Aston Villa,Wolverhampton,Paul Tierney
+2024-03-30T20:00:00Z,30,Brentford,Man United,1,1,0,0,0,DRAW,DRAW,Simon Hooper
+2024-03-31T13:00:00Z,30,Liverpool,Brighton Hove,2,1,1,1,1,Liverpool,Brighton Hove,David Coote
+2024-03-31T15:30:00Z,30,Man City,Arsenal,0,0,0,0,0,DRAW,DRAW,Anthony Taylor
+2024-04-02T18:30:00Z,31,Nottingham,Fulham,3,1,3,0,2,Nottingham,Fulham,Michael Oliver
+2024-04-02T18:30:00Z,31,Newcastle,Everton,1,1,1,0,0,DRAW,DRAW,Tony Harrington
+2024-04-02T18:45:00Z,31,Bournemouth,Crystal Palace,1,0,0,0,1,Bournemouth,Crystal Palace,Graham Scott
+2024-04-02T18:45:00Z,31,Burnley,Wolverhampton,1,1,1,1,0,DRAW,DRAW,Thomas Bramall
+2024-04-02T19:15:00Z,31,West Ham,Tottenham,1,1,1,1,0,DRAW,DRAW,John Brooks
+2024-04-03T18:30:00Z,31,Arsenal,Luton Town,2,0,2,0,2,Arsenal,Luton Town,Craig Pawson
+2024-04-03T18:30:00Z,31,Brentford,Brighton Hove,0,0,0,0,0,DRAW,DRAW,Bobby Madley
+2024-04-03T19:15:00Z,31,Man City,Aston Villa,4,1,2,1,3,Man City,Aston Villa,Darren England
+2024-04-04T18:30:00Z,31,Liverpool,Sheffield Utd,3,1,1,0,2,Liverpool,Sheffield Utd,Stuart Attwell
+2024-04-04T19:15:00Z,31,Chelsea,Man United,4,3,2,2,1,Chelsea,Man United,Jarred Gillett
+2024-04-06T11:30:00Z,32,Crystal Palace,Man City,2,4,1,1,2,Man City,Crystal Palace,Paul Tierney
+2024-04-06T14:00:00Z,32,Aston Villa,Brentford,3,3,1,0,0,DRAW,DRAW,Michael Salisbury
+2024-04-06T14:00:00Z,32,Everton,Burnley,1,0,1,0,1,Everton,Burnley,Michael Oliver
+2024-04-06T14:00:00Z,32,Fulham,Newcastle,0,1,0,0,1,Newcastle,Fulham,Samuel Allison
+2024-04-06T14:00:00Z,32,Luton Town,Bournemouth,2,1,0,0,1,Luton Town,Bournemouth,Andy Madley
+2024-04-06T14:00:00Z,32,Wolverhampton,West Ham,1,2,1,0,1,West Ham,Wolverhampton,Tony Harrington
+2024-04-06T16:30:00Z,32,Brighton Hove,Arsenal,0,3,0,1,3,Arsenal,Brighton Hove,John Brooks
+2024-04-07T14:30:00Z,32,Man United,Liverpool,2,2,0,1,0,DRAW,DRAW,Anthony Taylor
+2024-04-07T16:30:00Z,32,Sheffield Utd,Chelsea,2,2,1,1,0,DRAW,DRAW,Robert Jones
+2024-04-07T17:00:00Z,32,Tottenham,Nottingham,3,1,1,1,2,Tottenham,Nottingham,Simon Hooper
+2024-04-13T11:30:00Z,33,Newcastle,Tottenham,4,0,2,0,4,Newcastle,Tottenham,Tim Robinson
+2024-04-13T14:00:00Z,33,Brentford,Sheffield Utd,2,0,0,0,2,Brentford,Sheffield Utd,Sam Barrott
+2024-04-13T14:00:00Z,33,Burnley,Brighton Hove,1,1,0,0,0,DRAW,DRAW,Simon Hooper
+2024-04-13T14:00:00Z,33,Man City,Luton Town,5,1,1,0,4,Man City,Luton Town,John Brooks
+2024-04-13T14:00:00Z,33,Nottingham,Wolverhampton,2,2,1,1,0,DRAW,DRAW,Craig Pawson
+2024-04-13T16:30:00Z,33,Bournemouth,Man United,2,2,2,1,0,DRAW,DRAW,Tony Harrington
+2024-04-14T13:00:00Z,33,Liverpool,Crystal Palace,0,1,0,1,1,Crystal Palace,Liverpool,Chris Kavanagh
+2024-04-14T13:00:00Z,33,West Ham,Fulham,0,2,0,1,2,Fulham,West Ham,Stuart Attwell
+2024-04-14T15:30:00Z,33,Arsenal,Aston Villa,0,2,0,0,2,Aston Villa,Arsenal,David Coote
+2024-04-15T19:00:00Z,33,Chelsea,Everton,6,0,4,0,6,Chelsea,Everton,Paul Tierney
+2024-04-20T14:00:00Z,34,Luton Town,Brentford,1,5,0,2,4,Brentford,Luton Town,Jarred Gillett
+2024-04-20T14:00:00Z,34,Sheffield Utd,Burnley,1,4,0,2,3,Burnley,Sheffield Utd,Andy Madley
+2024-04-20T18:30:00Z,34,Wolverhampton,Arsenal,0,2,0,1,2,Arsenal,Wolverhampton,Paul Tierney
+2024-04-21T12:30:00Z,34,Everton,Nottingham,2,0,1,0,2,Everton,Nottingham,Anthony Taylor
+2024-04-21T14:00:00Z,34,Aston Villa,Bournemouth,3,1,1,1,2,Aston Villa,Bournemouth,Tim Robinson
+2024-04-21T14:00:00Z,34,Crystal Palace,West Ham,5,2,4,1,3,Crystal Palace,West Ham,Graham Scott
+2024-04-21T15:30:00Z,34,Fulham,Liverpool,1,3,1,1,2,Liverpool,Fulham,Craig Pawson
+2024-04-23T19:00:00Z,29,Arsenal,Chelsea,5,0,1,0,5,Arsenal,Chelsea,Simon Hooper
+2024-04-24T18:45:00Z,29,Wolverhampton,Bournemouth,0,1,0,1,1,Bournemouth,Wolverhampton,Stuart Attwell
+2024-04-24T19:00:00Z,29,Crystal Palace,Newcastle,2,0,0,0,2,Crystal Palace,Newcastle,Thomas Bramall
+2024-04-24T19:00:00Z,29,Everton,Liverpool,2,0,1,0,2,Everton,Liverpool,Andy Madley
+2024-04-24T19:00:00Z,29,Man United,Sheffield Utd,4,2,1,1,2,Man United,Sheffield Utd,Michael Salisbury
+2024-04-25T19:00:00Z,29,Brighton Hove,Man City,0,4,0,3,4,Man City,Brighton Hove,Jarred Gillett
+2024-04-27T11:30:00Z,35,West Ham,Liverpool,2,2,1,0,0,DRAW,DRAW,Anthony Taylor
+2024-04-27T14:00:00Z,35,Fulham,Crystal Palace,1,1,0,0,0,DRAW,DRAW,Stuart Attwell
+2024-04-27T14:00:00Z,35,Man United,Burnley,1,1,0,0,0,DRAW,DRAW,John Brooks
+2024-04-27T14:00:00Z,35,Newcastle,Sheffield Utd,5,1,1,1,4,Newcastle,Sheffield Utd,Tony Harrington
+2024-04-27T14:00:00Z,35,Wolverhampton,Luton Town,2,1,1,0,1,Wolverhampton,Luton Town,David Coote
+2024-04-27T16:30:00Z,35,Everton,Brentford,1,0,0,0,1,Everton,Brentford,Darren England
+2024-04-27T19:00:00Z,35,Aston Villa,Chelsea,2,2,2,0,0,DRAW,DRAW,Craig Pawson
+2024-04-28T13:00:00Z,35,Bournemouth,Brighton Hove,3,0,1,0,3,Bournemouth,Brighton Hove,Paul Tierney
+2024-04-28T13:00:00Z,35,Tottenham,Arsenal,2,3,0,3,1,Arsenal,Tottenham,Michael Oliver
+2024-04-28T15:30:00Z,35,Nottingham,Man City,0,2,0,1,2,Man City,Nottingham,Simon Hooper
+2024-05-02T18:30:00Z,26,Chelsea,Tottenham,2,0,1,0,2,Chelsea,Tottenham,Robert Jones
+2024-05-03T19:00:00Z,36,Luton Town,Everton,1,1,1,1,0,DRAW,DRAW,Tim Robinson
+2024-05-04T11:30:00Z,36,Arsenal,Bournemouth,3,0,1,0,3,Arsenal,Bournemouth,David Coote
+2024-05-04T14:00:00Z,36,Brentford,Fulham,0,0,0,0,0,DRAW,DRAW,Graham Scott
+2024-05-04T14:00:00Z,36,Burnley,Newcastle,1,4,0,3,3,Newcastle,Burnley,Anthony Taylor
+2024-05-04T14:00:00Z,36,Sheffield Utd,Nottingham,1,3,1,1,2,Nottingham,Sheffield Utd,Chris Kavanagh
+2024-05-04T16:30:00Z,36,Man City,Wolverhampton,5,1,3,0,4,Man City,Wolverhampton,Craig Pawson
+2024-05-05T13:00:00Z,36,Brighton Hove,Aston Villa,1,0,0,0,1,Brighton Hove,Aston Villa,Robert Jones
+2024-05-05T13:00:00Z,36,Chelsea,West Ham,5,0,3,0,5,Chelsea,West Ham,Bobby Madley
+2024-05-05T15:30:00Z,36,Liverpool,Tottenham,4,2,2,0,2,Liverpool,Tottenham,Paul Tierney
+2024-05-06T19:00:00Z,36,Crystal Palace,Man United,4,0,2,0,4,Crystal Palace,Man United,Jarred Gillett
+2024-05-11T11:30:00Z,37,Fulham,Man City,0,4,0,1,4,Man City,Fulham,Anthony Taylor
+2024-05-11T14:00:00Z,37,Bournemouth,Brentford,1,2,0,0,1,Brentford,Bournemouth,Matt Donohue
+2024-05-11T14:00:00Z,37,Everton,Sheffield Utd,1,0,1,0,1,Everton,Sheffield Utd,Stuart Attwell
+2024-05-11T14:00:00Z,37,Newcastle,Brighton Hove,1,1,1,1,0,DRAW,DRAW,Darren England
+2024-05-11T14:00:00Z,37,Tottenham,Burnley,2,1,1,1,1,Tottenham,Burnley,Jarred Gillett
+2024-05-11T14:00:00Z,37,West Ham,Luton Town,3,1,0,1,2,West Ham,Luton Town,Michael Oliver
+2024-05-11T14:00:00Z,37,Wolverhampton,Crystal Palace,1,3,0,2,2,Crystal Palace,Wolverhampton,Thomas Bramall
+2024-05-11T16:30:00Z,37,Nottingham,Chelsea,2,3,1,1,1,Chelsea,Nottingham,Tony Harrington
+2024-05-12T15:30:00Z,37,Man United,Arsenal,0,1,0,1,1,Arsenal,Man United,Paul Tierney
+2024-05-13T19:00:00Z,37,Aston Villa,Liverpool,3,3,1,2,0,DRAW,DRAW,Simon Hooper
+2024-05-14T19:00:00Z,34,Tottenham,Man City,0,2,0,0,2,Man City,Tottenham,Chris Kavanagh
+2024-05-15T18:45:00Z,34,Brighton Hove,Chelsea,1,2,0,1,1,Chelsea,Brighton Hove,Michael Salisbury
+2024-05-15T19:00:00Z,34,Man United,Newcastle,3,2,1,0,1,Man United,Newcastle,Robert Jones
+2024-05-19T15:00:00Z,38,Arsenal,Everton,2,1,1,1,1,Arsenal,Everton,Michael Oliver
+2024-05-19T15:00:00Z,38,Brentford,Newcastle,2,4,0,3,2,Newcastle,Brentford,Simon Hooper
+2024-05-19T15:00:00Z,38,Brighton Hove,Man United,0,2,0,0,2,Man United,Brighton Hove,Craig Pawson
+2024-05-19T15:00:00Z,38,Burnley,Nottingham,1,2,0,2,1,Nottingham,Burnley,Graham Scott
+2024-05-19T15:00:00Z,38,Chelsea,Bournemouth,2,1,1,0,1,Chelsea,Bournemouth,Anthony Taylor
+2024-05-19T15:00:00Z,38,Crystal Palace,Aston Villa,5,0,2,0,5,Crystal Palace,Aston Villa,Darren Bond
+2024-05-19T15:00:00Z,38,Liverpool,Wolverhampton,2,0,2,0,2,Liverpool,Wolverhampton,Chris Kavanagh
+2024-05-19T15:00:00Z,38,Luton Town,Fulham,2,4,1,2,2,Fulham,Luton Town,Matt Donohue
+2024-05-19T15:00:00Z,38,Man City,West Ham,3,1,2,1,2,Man City,West Ham,John Brooks
+2024-05-19T15:00:00Z,38,Sheffield Utd,Tottenham,0,3,0,1,3,Tottenham,Sheffield Utd,Bobby Madley
